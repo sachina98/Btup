@@ -1,9 +1,9 @@
 import os
-
+f504bf34ad7dbc597c8802db2f46453c
 class Config(object):
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6662229253:AAFfxR0lHLdvfJsaAbM5FJVYpxv19tfj-fE")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7322375922:AAHTpAuGhBnC1CJyzaAqRRoOQ7K0_AfkzmY")
     
-    API_ID = int(os.environ.get("API_ID", "29768900"))
-    API_HASH = os.environ.get("API_HASH", "6a56e5c2383dc7b85210febe60b9f229")
-    AUTH_USERS = os.environ.get("AUTH_USERS","5986670447")
+    API_ID = int(os.environ.get("API_ID", "28174664"))
+    API_HASH = os.environ.get("API_HASH", "f504bf34ad7dbc597c8802db2f46453c")
+    AUTH_USERS = os.environ.get("AUTH_USERS","5758937746")
     
