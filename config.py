@@ -1,5 +1,4 @@
 import os
-f504bf34ad7dbc597c8802db2f46453c
 class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7322375922:AAHTpAuGhBnC1CJyzaAqRRoOQ7K0_AfkzmY")
     
